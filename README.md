@@ -1,24 +1,16 @@
-# README
+# The_Gossip_Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# INTRODUCTION
 
-Things you may want to cover:
+###### Étapes à suivre:
 
-* Ruby version
+* Faite un git clone: `https://github.com/belette06/the_gossip_project`
+* Faite un `bundle install`
+* Et c'est partie !
 
-* System dependencies
+# CRÉATEUR
 
-* Configuration
+AVRONSART Cyril
 
-* Database creation
+# EXPLICATION
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
